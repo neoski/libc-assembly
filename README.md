@@ -6,6 +6,7 @@ strpbrk, strrchr, strstr).
 **Requirements :**
 
 gcc
+
 nasm
 
 **Usage :**
