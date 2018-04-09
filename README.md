@@ -18,7 +18,7 @@ nasm
 3. You can use the `libasm.so`
 
 A script is provided (`test.sh`) which compile C files testing the functions 
-in a hidden directory (`.test_files`) and make a `diff` of the standard output 
+in a hidden directory (`.test_files`) and make a `diff` between the standard output 
 and the one generated when the lib is loaded.
 
 To run it : `./test.sh`
