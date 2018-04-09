@@ -1,7 +1,7 @@
 # libc-assembly
 16 libc (C standard library) functions recoded in assembly (bzero, memcpy, memmove, memset, 
 rindex, strcasecmp, strchr, strcmp, strcpy, strcspn, strlen, strncmp, strnlen,
-strpbrk, strrchr, strstr);
+strpbrk, strrchr, strstr).
 
 **Requirements :**
 
