@@ -24,7 +24,7 @@ and the one generated when the lib is loaded.
 To run it : `./test.sh`
 
 *Note : The current Makefile is correctly setted for MAC OS X.
-For Linux, change `CFLAGS = -f macho64` to `CFLAGS = -f elf64`.
+For Linux, change `CFLAGS = -f macho64` to `CFLAGS = -f elf64`.*
 
 **Authors :** Sebastien S. and Benoit Sida
 
