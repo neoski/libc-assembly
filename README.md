@@ -30,4 +30,4 @@ For Linux, change `CFLAGS = -f macho64` to `CFLAGS = -f elf64`.*
 
 **Github repository :** https://github.com/neoski/libc-assembly
 
-**Made in april 2016.**
+**Made during my studies in april 2016.**
